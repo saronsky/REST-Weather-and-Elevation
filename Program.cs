@@ -16,8 +16,8 @@ namespace Program_2_Rest
     class Program
     {
         /*This is used to store API keys and base URLS for the 2 APIs being used*/
-        const string weatherAPIKey = "2ad9265743a2c5043112387ee3bebbd4";
-        const string elevationAPIKey = "AIzaSyBqKCh3xUtreyZ-5t9AQJabqrD_f8vzXGw";
+        const string weatherAPIKey = "/*ADD YOUR API CODE HERE*/";
+        const string elevationAPIKey = "/*ADD YOUR API CODE HERE*/";
         const string weatherURI = "http://api.openweathermap.org/data/2.5/";
         const string elevationURI = "https://maps.googleapis.com/maps/api/elevation/";
 
